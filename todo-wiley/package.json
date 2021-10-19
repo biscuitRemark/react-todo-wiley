@@ -2,7 +2,7 @@
   "name": "todo-wiley",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://biscuitRemark.github.io/react-todo-wiley/todo-wiley",
+  "homepage": "https://biscuitRemark.github.io/react-todo-wiley",
   "author": "https://github.com/biscuitRemark",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
